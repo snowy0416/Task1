@@ -1,0 +1,260 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    float: left;
+    padding:40px ;
+   justify-content: space-around;
+   background-color: #F5F7FA;
+   
+}
+.c1{
+    display: flex;
+    float: left;
+    padding: 10px;
+}
+img{
+    width: 40px;
+    height: 30px;
+}
+.tx1{
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.c2{
+    display: flex;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: flex;
+    float: left;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.c3{
+    display: flex;
+    float: left;
+    margin-top: 20px;
+
+} 
+.gr{
+    font-size: 20px;
+    font-weight: 500;
+    color: #28CB8B;
+}
+.button1{
+    width: 80px;
+    border-radius: 10px;
+    height: 40px;
+    margin-left: 40px;
+    background-color: #43A046;
+    margin-top: -10px;
+    border: none;
+    color: white;
+}
+.button2{
+    width: 100px;
+    border-radius: 0px;
+}
+.cont1{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    float: left;
+    padding:80px ;
+   justify-content: space-around;
+   background-color: #F5F7FA;
+}
+
+.tt{
+    font-size: 60px;
+}
+span{
+    color: #43A046;  
+}
+
+.mod{
+    background-color: #F5F7FA;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.client{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+}
+.client h3{
+    font-size: 30px;
+    text-align: center;
+}
+.cn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.cl-2{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.boxes{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-direction: row;
+    row-gap: 30px;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.box1{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 300px;
+    height: 150px;
+    gap: 15px;
+   
+}
+.cont2{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    float: left;
+    padding:60px ;
+   justify-content: space-around;
+
+}
+.left1{
+    width: 50%;
+   
+}
+.right1{
+   width: 50%;
+   margin-top: 40px;
+
+}
+.right1 h3{
+    font-size: 30px;
+}
+.cont3{
+    width: 100%;
+    display: flex;
+    float: left;
+    padding: 20px;
+   justify-content: space-around;
+   background-color: #F5F7FA;
+}
+.left{
+margin-top: 30px;
+}
+.right-1{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+.rb1{
+    display: flex;
+    gap: 10px;
+}
+.cont4{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    float: left;
+    padding:60px ;
+   justify-content: space-around;
+   background-color: #F5F7FA;
+}
+.right2{
+    width: 50%;   
+}
+.cl-3{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.cl-4{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.clients{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+}
+.clients h3{
+    font-size: 30px;
+    text-align: center;
+}
+.para{
+        width: 40%;
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+    }
+.box2{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width:250px;
+        height: 130px;
+        gap: 15px;
+        background-color: #F5F7FA;
+        padding: 10px;
+        }
+
+.content{
+      background-color: #F5F7FA;;
+}
+.text{
+        width: 60%;
+        text-align: center;
+      }  
+.button3{
+        width: 150px;
+        border-radius: 0px;
+    }
+.footer{
+    width: 100%;
+    background-color:  #263238;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+
+
+.div2{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    width: 200px;
+    padding: 5px;
+    background-color: #89939E;
+    text-align: left;
+}
